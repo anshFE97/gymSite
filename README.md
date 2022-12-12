@@ -1,1 +1,3 @@
-Live Website = [Gym website](https://gym-maniacs.netlify.app/#exercises)
+live site demo = [Gym website](https://gym-maniacs.netlify.app/#exercises)
+
+
